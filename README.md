@@ -1,4 +1,4 @@
-### Olá pessoal, meu nome é Vinicius Jesus Santos👋
+### Olá pessoal, meu nome é Lucas Alves Mendes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Luke074)](https://github.com/Luke074)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-mendes-190848181/)](https://www.linkedin.com/in/lucas-mendes-190848181/)
