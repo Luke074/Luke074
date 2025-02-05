@@ -14,6 +14,5 @@
 
 ## - 😄 Sobre Mim: 
 
-- 💻 Estou procurando emprego na área de Desenvolvimento WEB
-- 📚 Estou cursando o 3° semestre de técnico em Desenvolvimento de Sistemas no Senai - Jandira
-- 🚀 Estou desenvolvendo um sistema sobre uma Academia chamada FitWare no meu TCC.
+- 💻 Trabalho na área a mais de 3 anos
+- 📚 Cursando Faculdade de Tecnologia no curso ADS, na instituição Senac!
